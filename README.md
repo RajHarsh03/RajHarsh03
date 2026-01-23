@@ -1,8 +1,3 @@
-<!-- ================= CAPSULE HEADER ================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1220,100:16A34A&text=Harsh%20Raj&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20ML%20%26%20AI%20Enthusiast&descSize=18&descAlignY=55" />
-</div>
-
 <!-- ================= HERO SECTION ================= -->
 <div align="center">
 
