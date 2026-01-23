@@ -101,22 +101,66 @@ I’m a **Full-Stack Developer** focused on building **scalable, high-performanc
 
 ## 🧰 Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C++-0B1220?style=for-the-badge&logo=c%2B%2B&logoColor=22C55E)
-![C](https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=22C55E)
-![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=22C55E)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=22C55E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=22C55E)
+### 🧠 Languages
+![C++](https://img.shields.io/badge/C++-0B1220?style=for-the-badge&logo=c%2B%2B&logoColor=16A34A)
+![C](https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=16A34A)
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=16A34A)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=16A34A)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=16A34A)
 
-### Frontend
-![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=22C55E)
-![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=next.js&logoColor=22C55E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0B1220?style=for-the-badge&logo=tailwind-css&logoColor=22C55E)
+---
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js&logoColor=22C55E)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=22C55E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=22C55E)
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=16A34A)
+![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=16A34A)
+![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=next.js&logoColor=16A34A)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0B1220?style=for-the-badge&logo=tailwind-css&logoColor=16A34A)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1220?style=for-the-badge&logo=bootstrap&logoColor=16A34A)
+
+---
+
+### ⚙️ Backend & Realtime
+![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js&logoColor=16A34A)
+![Socket.io](https://img.shields.io/badge/Socket.io-0B1220?style=for-the-badge&logo=socket.io&logoColor=16A34A)
+![JWT](https://img.shields.io/badge/JWT-0B1220?style=for-the-badge&logo=jsonwebtokens&logoColor=16A34A)
+
+---
+
+### 🗄️ Databases & Backend Services
+![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=16A34A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=16A34A)
+![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=16A34A)
+![SQLite](https://img.shields.io/badge/SQLite-0B1220?style=for-the-badge&logo=sqlite&logoColor=16A34A)
+![Firebase](https://img.shields.io/badge/Firebase-0B1220?style=for-the-badge&logo=firebase&logoColor=16A34A)
+
+---
+
+### 🤖 Machine Learning & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=16A34A)
+![Pandas](https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=16A34A)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0B1220?style=for-the-badge&logo=matplotlib&logoColor=16A34A)
+![SciPy](https://img.shields.io/badge/SciPy-0B1220?style=for-the-badge&logo=scipy&logoColor=16A34A)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0B1220?style=for-the-badge&logo=scikit-learn&logoColor=16A34A)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B1220?style=for-the-badge&logo=tensorflow&logoColor=16A34A)
+![PyTorch](https://img.shields.io/badge/PyTorch-0B1220?style=for-the-badge&logo=pytorch&logoColor=16A34A)
+
+---
+
+### 🎨 UI / Design & Tools
+![Figma](https://img.shields.io/badge/Figma-0B1220?style=for-the-badge&logo=figma&logoColor=16A34A)
+![Canva](https://img.shields.io/badge/Canva-0B1220?style=for-the-badge&logo=canva&logoColor=16A34A)
+![Adobe](https://img.shields.io/badge/Adobe-0B1220?style=for-the-badge&logo=adobe&logoColor=16A34A)
+
+---
+
+### 🧪 VCS & Environment
+![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=16A34A)
+![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=16A34A)
+![GitLab](https://img.shields.io/badge/GitLab-0B1220?style=for-the-badge&logo=gitlab&logoColor=16A34A)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-0B1220?style=for-the-badge&logo=windows-terminal&logoColor=16A34A)
+
+
+
 
 
 ---
