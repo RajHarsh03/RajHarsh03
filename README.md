@@ -22,7 +22,7 @@
 <a href="https://github.com/Harsh-Raj4618">
   <img src="https://img.shields.io/badge/GitHub-22C55E?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<a href="https://www.linkedin.com/in/harsh-raj-102220374">
+<a href="https://linkedin.com/in/rajharsh4618">
   <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/Harsh_Raj4618">
