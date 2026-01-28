@@ -68,7 +68,7 @@ I’m a **Full-Stack Developer** focused on building **scalable, high-performanc
 ---
 
 ## 🚀 Featured Projects
-
+<!--
 ### 🔹 Real-Time Chat Application
 **Tech:** React, Node.js, Socket.io, MongoDB  
 - 🚀 Handles **1,000+ real-time messages/day**
@@ -96,7 +96,7 @@ I’m a **Full-Stack Developer** focused on building **scalable, high-performanc
 - 📉 Automated data preprocessing
 
 🔗 *Repo:* `Coming Soon`
-
+-->
 ---
 
 ## 🧰 Tech Stack
