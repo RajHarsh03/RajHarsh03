@@ -83,8 +83,6 @@
 
 ![Followers](https://img.shields.io/github/followers/Harsh-Raj4618?label=Followers&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Harsh-Raj4618?label=Total%20Stars&style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-Visible-blue?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Total%20Commits-View%20Profile-blue?style=for-the-badge)
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-Raj4618&theme=github-dark&hide_border=true" />
 <br/>
