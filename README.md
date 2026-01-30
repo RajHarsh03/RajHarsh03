@@ -112,7 +112,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Raj4618&theme=github_dark&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Raj4618&theme=github_dark&hide_border=true" /> -->
 <br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-Raj4618&theme=github-dark&hide_border=true" />
 <br/>
