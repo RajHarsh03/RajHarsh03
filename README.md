@@ -19,10 +19,10 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/rajharsh4618">
+<a href="https://linkedin.com/in/rajharsh03">
   <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://x.com/Harsh_Raj4618">
+<a href="https://x.com/RajHarsh03">
   <img src="https://img.shields.io/badge/X-22C55E?style=for-the-badge&logo=x&logoColor=black"/>
 </a>
 <a href="https://hashnode.com/@RajHarsh4618">
