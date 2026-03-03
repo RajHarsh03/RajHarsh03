@@ -28,7 +28,7 @@
   &nbsp;
   <a href="https://hashnode.com/@RajHarsh4618"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   &nbsp;
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://harshx.in"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.instagram.com/raj_harsh.03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   &nbsp;
