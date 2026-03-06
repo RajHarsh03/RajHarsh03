@@ -15,9 +15,6 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=500&color=16A34A&center=true&vCenter=true&width=900&lines=const+developer+%3D+%22Harsh%22%3B;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable%2C+High-Performance+Applications;console.log(%22Hello%2C+World!%22)%3B;npm+install+success" />
  </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=500&color=16A34A&center=true&vCenter=true&width=800&lines=const+developer+%3D+%22Harsh%22%3B;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable%2C+High-Performance+Applications;console.log(%22Hello%2C+World!%22)%3B;npm+install+success" />
-</div>
 
 <br/>
 
