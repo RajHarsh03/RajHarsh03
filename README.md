@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=Harsh-Raj4618&label=Profile+Views&color=16A34A&style=flat-square" alt="Profile Views" />
-  <a href="https://drive.google.com/file/d/1dbZ5TUaQIFdkTZykgj3BtM1QY1nEh_fm/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1uVxu6SSsqUaZwIneKkSRwQXBRSHghG91/view?usp=drive_link" target="_blank">
     <img align="right" src="https://img.shields.io/badge/Download%20CV-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download CV" />
   </a>
 </div>
