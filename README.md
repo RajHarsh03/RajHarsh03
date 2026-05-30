@@ -42,8 +42,8 @@
 
 > 🚀 I'm a **Full-Stack Developer** building **scalable, high-performance web apps** with clean architecture and great UX.
 
-- 🔭 Currently working on **Full Stack Web Development & AI**
-- 🤖 Exploring **Machine Learning & Artificial Intelligence**
+- 🔭 Currently working on **Full Stack Web Development**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **DSA, System Design, or Machine Learning**
 - ⚡ Fun fact: **I still get excited printing `"Hello, World!"`**
