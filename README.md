@@ -100,27 +100,12 @@
 
 ## 📊 GitHub Stats
 
-
-
-<br/>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajHarsh03&theme=tokyonight" width="96%" />
-</div>
-
 <br/>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajHarsh03&theme=tokyonight" width="47%" />
   &nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajHarsh03&theme=tokyonight" width="47%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajHarsh03&theme=tokyonight" width="47%" />
-  &nbsp;
 </div>
 
 <br/>
