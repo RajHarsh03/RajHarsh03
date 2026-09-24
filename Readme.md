@@ -99,7 +99,7 @@
 
 
 <div align="center">
-  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/snake.svg?accent=16a34a" alt="Contribution snake" />
+  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/snake.svg?accent=cd35e4&header=16a34a" alt="Contribution snake" />
 </div>
 
 <br>
