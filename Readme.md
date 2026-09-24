@@ -87,23 +87,23 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<br/>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajHarsh03&theme=tokyonight" width="47%" />
-</div>
-
-<br/>
+## 📊 GitHub Activity & Streak
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajHarsh03/RajHarsh03/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajHarsh03/RajHarsh03/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/RajHarsh03/RajHarsh03/output/github-snake.svg" />
-  </picture>
+  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/stats.svg?accent=16a34a" alt="GitHub stats" />
+  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/streak.svg?accent=16a34a" alt="Contribution streak" />
 </div>
+
+<br>
+
+
+<div align="center">
+  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/snake.svg?accent=16a34a" alt="Contribution snake" />
+</div>
+
+<br>
+<img src="https://readcraft.harshx.in/api/github/RajHarsh03/languages.svg?accent=16a34a" alt="Top languages" width="100%" />
 
 <br>
 
@@ -116,3 +116,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=16A34A&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
+
+
+---
+
+<p align="center"><sub>Made with <a href="https://readcraft.harshx.in">ReadCraft</a></sub></p>
+
+
+
+
+
+
+
+
+
