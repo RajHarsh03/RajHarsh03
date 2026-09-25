@@ -91,18 +91,18 @@
 ## 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/stats.svg?accent=16a34a" alt="GitHub stats" />
-  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/streak.svg?accent=16a34a" alt="Contribution streak" />
+  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/stats.svg?accent=39d353" alt="GitHub stats" />
+  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/streak.svg?accent=39d353" alt="Contribution streak" />
 </div>
 
 <br>
-
 
 <div align="center">
-  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/snake.svg?accent=cd35e4&header=16a34a" alt="Contribution snake" />
+  <img src="https://readcraft.harshx.in/api/github/RajHarsh03/snake.svg?accent=a543d5&header=39d353" alt="Contribution snake" />
 </div>
 
 <br>
+
 <img src="https://readcraft.harshx.in/api/github/RajHarsh03/languages.svg?accent=16a34a" alt="Top languages" width="100%" />
 
 <br>
